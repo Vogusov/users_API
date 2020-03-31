@@ -4,35 +4,35 @@
   "posts": [
     {
       "date": "01.01.01",
-      "location": "New-York",
+      "location": "New-York"
     },
     {
       "date": "01.01.01",
-      "location": "Paris",
+      "location": "Paris"
     },
     {
       "date": "01.01.01",
-      "location": "Paris",
+      "location": "Paris"
     },
     {
       "date": "01.01.01",
-      "location": "Paris",
+      "location": "Paris"
     },
     {
       "date": "01.01.01",
-      "location": "Paris",
+      "location": "Paris"
     },
     {
       "date": "01.01.01",
-      "location": "Moscow",
+      "location": "Moscow"
     },
     {
       "date": "01.01.01",
-      "location": "Paris",
+      "location": "Paris"
     },
     {
       "date": "01.01.01",
-      "location": "Paris",
+      "location": "Paris"
     }
   ]
 }
