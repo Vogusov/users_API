@@ -1,0 +1,38 @@
+{
+  "id": 105,
+  "user_name": "Cliff",
+  "posts": [
+    {
+      "date": "01.01.01",
+      "location": "New-York",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Paris",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Paris",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Paris",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Paris",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Moscow",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Paris",
+    },
+    ]
+    {
+      "date": "01.01.01",
+      "location": "Paris",
+    }
+}

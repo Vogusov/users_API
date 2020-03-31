@@ -1,0 +1,38 @@
+{
+  "id": 101,
+  "user_name": "Anton",
+  "posts": [
+    {
+      "date": "01.01.01",
+      "location": "Moscow",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Saint-Petersburg",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Moscow",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Moscow",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Moscow",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Moscow",
+    },
+    {
+      "date": "01.01.01",
+      "location": "Moscow",
+    },
+    ]
+    {
+      "date": "01.01.01",
+      "location": "Moscow",
+    }
+}
